@@ -1,0 +1,12 @@
+name: perfil_ufersa
+title: perfil_ufersa
+username:
+account: kassiocamelo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 803236
+bundleId: 1955204
+url: https://kassiocamelo.shinyapps.io/perfil_ufersa/
+when: 1553171523.17223
+asMultiple: FALSE
+asStatic: FALSE
